@@ -1,7 +1,7 @@
 module.exports = {
     app: {
         token: process.env.DISCORD_TOKEN || 'xxx',
-        playing: 'by the Community ❤️',
+        playing: 'It's Onionbot_exe time',
         global: true,
         guild: process.env.GUILD_ID || 'xxx',
         extraMessages: false,
